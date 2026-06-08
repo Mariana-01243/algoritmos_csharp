@@ -1,0 +1,14 @@
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\bin\Debug\net9.0\contagemregressiva.exe
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\bin\Debug\net9.0\contagemregressiva.deps.json
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\bin\Debug\net9.0\contagemregressiva.runtimeconfig.json
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\bin\Debug\net9.0\contagemregressiva.dll
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\bin\Debug\net9.0\contagemregressiva.pdb
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\contagemregressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\contagemregressiva.AssemblyInfoInputs.cache
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\contagemregressiva.AssemblyInfo.cs
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\contagemregressiva.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\contagemregressiva.dll
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\refint\contagemregressiva.dll
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\contagemregressiva.pdb
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\contagemregressiva.genruntimeconfig.cache
+C:\Users\TEMP.FATECTQ0.009\contagemregressiva\contagemregressiva\obj\Debug\net9.0\ref\contagemregressiva.dll

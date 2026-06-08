@@ -1,0 +1,14 @@
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\media.AssemblyInfoInputs.cache
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\media.AssemblyInfo.cs
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\media.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.FATECTQ0.009\media\media\bin\Debug\net9.0\media.exe
+C:\Users\TEMP.FATECTQ0.009\media\media\bin\Debug\net9.0\media.deps.json
+C:\Users\TEMP.FATECTQ0.009\media\media\bin\Debug\net9.0\media.runtimeconfig.json
+C:\Users\TEMP.FATECTQ0.009\media\media\bin\Debug\net9.0\media.dll
+C:\Users\TEMP.FATECTQ0.009\media\media\bin\Debug\net9.0\media.pdb
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\media.dll
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\refint\media.dll
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\media.pdb
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\media.genruntimeconfig.cache
+C:\Users\TEMP.FATECTQ0.009\media\media\obj\Debug\net9.0\ref\media.dll

@@ -1,0 +1,14 @@
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\bin\Debug\net9.0\maioridade.exe
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\bin\Debug\net9.0\maioridade.deps.json
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\bin\Debug\net9.0\maioridade.runtimeconfig.json
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\bin\Debug\net9.0\maioridade.dll
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\bin\Debug\net9.0\maioridade.pdb
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\maioridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\maioridade.AssemblyInfoInputs.cache
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\maioridade.AssemblyInfo.cs
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\maioridade.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\maioridade.dll
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\refint\maioridade.dll
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\maioridade.pdb
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\maioridade.genruntimeconfig.cache
+C:\Users\TEMP.FATECTQ0.009\maioridade\maioridade\obj\Debug\net9.0\ref\maioridade.dll
